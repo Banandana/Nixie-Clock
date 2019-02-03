@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name nixie)(type Legacy)(uri ${KIPRJMOD}/nixie.lib)(options "")(descr ""))
+  (lib (name nixie_tube)(type Legacy)(uri ${KIPRJMOD}/nixie_tube.lib)(options "")(descr ""))
+  (lib (name russian-nixies)(type Legacy)(uri ${KIPRJMOD}/russian-nixies.lib)(options "")(descr ""))
+)
